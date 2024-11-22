@@ -19,7 +19,7 @@ on:
         required: true
       icon:
         description: '[Icon, Optional]'
-        required: true
+        required: false
       width:
         description: '[Width, Optional]'
         required: false
